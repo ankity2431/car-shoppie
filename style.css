@@ -1,0 +1,19 @@
+/* .success{
+    color: green;
+    font-size: 22px;
+    border: 1px solid black;
+}
+
+.error{
+    color: red;
+    font-size: 16px;
+    border: 1px solid black;
+} */
+
+li{
+    background-color: antiquewhite;
+    margin: 10px;
+    padding: 10px;
+   border: 1px dotted black;
+   list-style-type: none;
+}
